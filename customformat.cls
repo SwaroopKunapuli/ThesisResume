@@ -3,7 +3,9 @@
 \LoadClass{scrartcl}
 
 \RequirePackage[utf8]{inputenc}
-\RequirePackage{graphicx}
+\RequirePackage{graphics}
+
+
 \RequirePackage{times}
 
 \renewcommand{\author}[1]{\@breakauthor#1\@breakauthor}
